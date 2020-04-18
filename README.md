@@ -6,4 +6,5 @@ thermometer is inputing on pin 8
 TO use just flush it in your arduino and connect to the right pins
 
 ![system_pic](images_and_vid/system_pic.jpg)
-![system_vid](images_and_vid/system_vid.mp4)
+
+Folder also contains a video showcasing the thermometer's functionality
